@@ -17,5 +17,6 @@ In the mean time, here are some links to my work:
 ## About Me
 
 <img src="TC_Headshot.png" alt="Here I am!" width="150" align = "right"/>
-I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work on developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf) . 
+
+I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work on developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf)  
 
