@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Website is Currently Under Construction 
-_Also I need to learn how to build a website!_
+## My work
+_Just dumping this here while I learn how to build a website!_
 
 In the mean time, here are some links to my work:
 
