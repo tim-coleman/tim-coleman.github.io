@@ -11,6 +11,8 @@ In the mean time, here are some links to my work:
 
 [An F-test for Random Forests](https://arxiv.org/pdf/1904.07830.pdf) - the main focus of my PhD work. The goal is to conduct variable importance by comparing predictive accuracy of different random forests via a permutation test.
 
+[Covariate Shifted Random Forests](https://arxiv.org/abs/1908.09967) - motivated by the problem of forecasting hurricane outages during particularly extreme storms, this work proposes an importance sampling modification to standard random forest models. 
+
 [Application of Random Forest Inference Procedures to Tree Swallow Migrations](https://arxiv.org/pdf/1710.09793.pdf) - using data from the [eBird project](https://ebird.org/home). 
 
 
