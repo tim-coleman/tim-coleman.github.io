@@ -3,9 +3,8 @@ layout: default
 ---
 
 ## My work
-_Just dumping this here while I learn how to build a website!_
 
-In the mean time, here are some links to my work:
+Below are links to my publically available work:
 
 [A Space Weather Paper](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2017SW001788?casa_token=j01gjgwkJA8AAAAA%3AVJbBuH5_GPeTk7iV3Q1MYFJZC3jvcf5GuE2uB_-n2-lMYKpHN_1maMoxY8pn761VzLI_3h16n5hQxg&) done with some collaborators at the Air Force Research Lab.
 
