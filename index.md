@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
 ## My Work
