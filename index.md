@@ -2,7 +2,7 @@
 layout: default
 ---
  
-
+<link rel="shortcut icon" type="image/x-icon" href="android-chrome-192x192.png">
 
 
 ## My Work
