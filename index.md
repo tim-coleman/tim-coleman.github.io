@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Preprints/Publications
+## My Work
+### Preprints/Publications
 
 Below are links to my publically available work:
 
@@ -15,7 +16,7 @@ Below are links to my publically available work:
 [Application of Random Forest Inference Procedures to Tree Swallow Migrations](https://arxiv.org/pdf/1710.09793.pdf) - using data from the [eBird project](https://ebird.org/home). 
 
 
-## Some Posters
+### Some Posters
 
 * [JSM 2019 Invited ePoster](ePoster_JSM2019_tcoleman.pdf)
 
