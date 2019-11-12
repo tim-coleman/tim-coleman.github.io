@@ -33,5 +33,5 @@ Below are links to my publically available work:
 
 I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily work developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences.
 
-My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf).
+My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf)
 
