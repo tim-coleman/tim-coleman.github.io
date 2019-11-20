@@ -6,7 +6,13 @@ layout: default
 
 
 ## My Work
+ am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily work developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. During my PhD studies, I've also worked at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
+ 
+ My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf).
+
+ 
 ### Preprints/Publications
+
 
 Below are links to my publically available work:
 
@@ -18,6 +24,16 @@ Below are links to my publically available work:
 
 [Application of Random Forest Inference Procedures to Tree Swallow Migrations](https://arxiv.org/pdf/1710.09793.pdf) - using data from the [eBird project](https://ebird.org/home), we study the association between seasonal temperature patterns and bird occurrence.
 
+
+### Recent Talks
+
+I've recently presented work at the following venues:
+
+* [AMIA 2019](https://symposium2019.zerista.com/profile/member/2689421) (November 2019)
+
+* Los Alamos CCS-6 "Talking to Ourselves" series (May 2019)
+
+* [CMU Statistical Machine Learning Reading Group](http://statml.cs.cmu.edu/blog/2019/02/12/tim.html) (February 2019)
 
 ### Some Posters
 
@@ -31,7 +47,8 @@ Below are links to my publically available work:
 
 <img src="TC_Headshot.png" alt="Here I am!" width="120" align = "right"/>
 
-I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily work developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. I also love to run (when I'm not actually running, of course), hike, and generally explore.
+I recieved my Bachelors with majors in Applied Math and Geography from Colgate University in 2016. I love to run (when I'm not actually running, of course), hike, and generally explore wherever I happen to be!
 
-My CV can be found [here](Tim_Coleman_CV_Summer2019.pdf)
+
+
 
