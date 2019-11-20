@@ -45,7 +45,7 @@ I've recently presented work at the following venues:
 
 ## About Me
 
-<img src="TC_Headshot.png" alt="Here I am!" width="120" align = "right"/>
+<img src="TC_Headshot.png" alt="Here I am!" width="100" align = "right"/>
 
 I recieved my Bachelors with majors in Applied Math and Geography from Colgate University in 2016. I love to run (when I'm not actually running, of course), hike, and generally explore wherever I happen to be!
 
