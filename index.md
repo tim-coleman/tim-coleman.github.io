@@ -33,7 +33,7 @@ I've recently presented work at the following venues:
 
 * [CMU Statistical Machine Learning Reading Group](http://statml.cs.cmu.edu/blog/2019/02/12/tim.html) (February 2019)
 
-### Some Posters That Are Currently Sitting in my Basement
+### Some Posters That Are Currently Sitting in My Basement
 
 * [JSM 2019 Invited ePoster](ePoster_JSM2019_tcoleman.pdf)
 
