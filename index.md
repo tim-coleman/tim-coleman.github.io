@@ -25,7 +25,9 @@ Below are links to my publicly available work:
 
 ### Recent Talks
 
-I've recently presented work at the following venues:
+I've recently presented work, or will be presenting work, at the following venues:
+
+* [SDSS 2019](https://ww2.amstat.org/meetings/sdss/2020/) "Locally Optimized Random Forests, a Solution to Forecasting Severe Hurricane Power Outages" (June 2020)
 
 * [AMIA 2019](https://symposium2019.zerista.com/profile/member/2689421) (November 2019)
 
