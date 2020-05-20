@@ -10,6 +10,9 @@ I am a 4th year PhD student in Statistics at the University of Pittsburgh, where
  
  My CV can be found [here](Tim_Coleman_CV_2020.pdf).
 
+### What am I up to right now? 
+
+Currently teaching (remotely!) STAT 1151, our introduction to probability class for undergrads. Quite a big learning curve to teach such a mathematical class entirely over Panopto video! Also working on getting some important papers across the finish line. _(May 20, 2020)_
  
 ### Preprints/Publications
 Below are links to my publicly available work:
@@ -20,7 +23,7 @@ Below are links to my publicly available work:
 
 [Covariate Shifted Random Forests](https://arxiv.org/abs/1908.09967) - motivated by the problem of forecasting hurricane outages during particularly extreme storms, this work proposes an importance sampling modification to standard random forest models. 
 
-[Application of Random Forest Inference Procedures to Tree Swallow Migrations](https://arxiv.org/pdf/1710.09793.pdf) - using data from the [eBird project](https://ebird.org/home), we study the association between seasonal temperature patterns and bird occurrence.
+[Application of Random Forest Inference Procedures to Tree Swallow Migrations](https://arxiv.org/pdf/1710.09793.pdf) - using data from the [eBird project](https://ebird.org/home), we study the association between seasonal temperature patterns and bird occurrence. Recently published in the Journal of the Royal Statistical Society, Series C.
 
 
 ### Recent Talks
