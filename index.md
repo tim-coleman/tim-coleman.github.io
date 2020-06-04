@@ -8,11 +8,11 @@ layout: default
 ## My Work
 I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily work developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. During my PhD studies, I've been lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
  
- My CV can be found [here](Tim_Coleman_CV_2020.pdf).
+My CV can be found [here](Tim_Coleman_CV_2020.pdf).
 
 ### What am I up to right now? 
 
-Currently teaching (remotely!) STAT 1151, our introduction to probability class for undergrads. Quite a big learning curve to teach such a mathematical class entirely over Panopto video! Also working on getting some important papers across the finish line. _(May 20, 2020)_
+Looking forward to presenting at SDSS 2020! Also, currently teaching (remotely!) STAT 1151, our introduction to probability class for undergrads. Quite a big learning curve to teach such a mathematical class entirely over Panopto video! Also working on getting some important papers across the finish line. _(June 4, 2020)_
  
 ### Preprints/Publications
 Below are links to my publicly available work:
