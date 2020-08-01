@@ -12,7 +12,7 @@ My CV can be found [here](Tim_Coleman_CV_2020.pdf).
 
 ### What am I up to right now? 
 
-Looking forward to presenting at SDSS 2020! Also, currently teaching (remotely!) STAT 1151, our introduction to probability class for undergrads. Quite a big learning curve to teach such a mathematical class entirely over Panopto video! Also working on getting some important papers across the finish line. _(June 4, 2020)_
+I am presently collaborating with another research group at Pitt on applying machine learning methods (including ML inference methods) to landslide prediction around the city of Pittsburgh. _(August 1, 2020)_
  
 ### Preprints/Publications
 Below are links to my publicly available work:
