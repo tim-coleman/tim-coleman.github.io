@@ -6,13 +6,15 @@ layout: default
 
 
 ## My Work
-I am a 4th year PhD student in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily work developing inferential procedures for statistical learning techniques, and focus on applications of those methods to the environmental sciences. During my PhD studies, I've been lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
+I am currently a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytoplankton using cytograms, as part of the [CBIOMES](https://cbiomes.org/) project, part of the Simons Foundation.
+
+Before USC, I completed a PhD in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily worked on developing inferential procedures for statistical learning techniques, and focused on applications of those methods to the environmental sciences. During my PhD studies, I was  lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
  
-My CV can be found [here](Tim_Coleman_CV_2020.pdf).
+My CV can be found [here](Tim_Coleman_CV_2021.pdf).
 
 ### What am I up to right now? 
 
-I am presently collaborating with another research group at Pitt on applying machine learning methods (including ML inference methods) to landslide prediction around the city of Pittsburgh. _(August 1, 2020)_
+I just started my first post-PhD position, working as a Postdoctoral Researcher at USC! Additionally, I am continueing to collaborate with another research group at Pitt on applying machine learning methods (including ML inference methods) to landslide prediction around the city of Pittsburgh. _(January 6, 2020)_
  
 ### Preprints/Publications
 Below are links to my publicly available work:
