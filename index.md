@@ -6,7 +6,7 @@ layout: default
 
 
 ## My Work
-I am currently a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytoplankton using cytograms, as part of the [CBIOMES](https://cbiomes.org/) project, part of the Simons Foundation.
+I am currently a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytopolankton in the ocean with an interest in the broader mission of the [CBIOMES](https://cbiomes.org/) project, part of the Simons Foundation.
 
 Before USC, I completed a PhD in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily worked on developing inferential procedures for statistical learning techniques, and focused on applications of those methods to the environmental sciences. During my PhD studies, I was  lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
  
@@ -40,7 +40,7 @@ I've recently presented work, or will be presenting work, at the following venue
 
 * [CMU Statistical Machine Learning Reading Group](http://statml.cs.cmu.edu/blog/2019/02/12/tim.html) (February 2019)
 
-### Some Posters That Are Currently Sitting in My Basement
+### Posters
 
 * [JSM 2019 Invited ePoster](ePoster_JSM2019_tcoleman.pdf)
 
