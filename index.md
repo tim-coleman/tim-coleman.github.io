@@ -5,16 +5,20 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="android-chrome-192x192.png">
 
 
-## My Work
-I am currently a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytopolankton in the ocean with an interest in the broader mission of the [CBIOMES](https://cbiomes.org/) project, part of the [Simons Foundation](https://www.simonsfoundation.org/).
-
-Before USC, I completed a PhD in Statistics at the University of Pittsburgh, where I work under [Lucas Mentch](http://lucasmentch.com/index.html). I primarily worked on developing inferential procedures for statistical learning techniques, and focused on applications of those methods to the environmental sciences. During my PhD studies, I was  lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
- 
-My CV can be found [here](Tim_Coleman_CV_June2022.pdf).
 
 ### What am I up to right now? 
 
-I just started my first post-PhD position, working as a Postdoctoral Researcher at USC! Additionally, I am continueing to collaborate with another research group at Pitt on applying machine learning methods (including ML inference methods) to landslide prediction around the city of Pittsburgh. _(January 6, 2020)_
+I recently joined the Trust and Safety Team at Google as a Data Scientist! Recently, I completed my first post-PhD position, working as a Postdoctoral Researcher at USC! Additionally, I am continuing to work in my spare time on finsihing up previous academic collaborations. _(July 18, 2022)_
+
+
+## My Academic Work
+I served as a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytopolankton in the ocean with an interest in the broader mission of the [CBIOMES](https://cbiomes.org/) project, part of the [Simons Foundation](https://www.simonsfoundation.org/).
+
+Before USC, I completed a PhD in Statistics at the University of Pittsburgh, under the mentorship of [Lucas Mentch](http://lucasmentch.com/index.html). I primarily worked on developing inferential procedures for statistical learning techniques, and focused on applications of those methods to the environmental sciences. During my PhD studies, I was  lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
+ 
+My CV can be found [here](Tim_Coleman_CV_June2022.pdf).
+
+
  
 ### Preprints/Publications
 Below are links to my publicly available work:
