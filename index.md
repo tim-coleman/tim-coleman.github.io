@@ -6,12 +6,12 @@ layout: default
 
 
 
-### What am I up to right now? 
+## What am I up to right now? 
 
 I recently joined the Trust and Safety Team at Google as a Data Scientist! Recently, I completed my first post-PhD position, working as a Postdoctoral Researcher at USC! Additionally, I am continuing to work in my spare time on finsihing up previous academic collaborations. _(July 18, 2022)_
 
 
-## My Academic Work
+### My Academic Work
 I served as a Postdoctoral Researcher at the University of Southern California, working under [Jacob Bien](http://faculty.marshall.usc.edu/Jacob-Bien/) on modelling populations of phytopolankton in the ocean with an interest in the broader mission of the [CBIOMES](https://cbiomes.org/) project, part of the [Simons Foundation](https://www.simonsfoundation.org/).
 
 Before USC, I completed a PhD in Statistics at the University of Pittsburgh, under the mentorship of [Lucas Mentch](http://lucasmentch.com/index.html). I primarily worked on developing inferential procedures for statistical learning techniques, and focused on applications of those methods to the environmental sciences. During my PhD studies, I was  lucky enough to work at the Air Force Research Lab, Lawrence Livermore National Lab, and most recently at Los Alamos National Lab. 
