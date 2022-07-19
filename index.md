@@ -56,7 +56,7 @@ I've recently presented work, or will be presenting work, at the following venue
 
 <img src="IMG_4862 (2).JPG" alt="Here I am!" width="100" align = "right"/>
 
-I recieved my Bachelors with majors in Applied Math and Geography from Colgate University in 2016. Born in the UK, grew up in California, and currently struggling through winters in Pittsburgh, PA, while still spending some time out in New Mexico. I love to run (when I'm not actually running, of course), hike, and generally explore wherever I happen to be! 
+I recieved my Bachelors with majors in Applied Math and Geography from Colgate University in 2016. I was borrn in the UK, grew up in Northern California, and am currently living in LA after having struggled through many winters in Pittsburgh, PA (while still spending some time out in New Mexico.) I love to run (when I'm not actually running, of course), hike, and generally explore wherever I happen to be! 
 
 
 
