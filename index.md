@@ -52,6 +52,10 @@ I've recently presented work, or will be presenting work, at the following venue
 
 * [ASA 2018 Pittsburgh Banquet Poster](ASA_Banquet_Poster.pdf)
 
+### Misc
+
+For a collection of errata (small typos that do not rise to the level of a formal errata being published), see [this link](Tim_Coleman_Errata.pdf)
+
 ## About Me
 
 <img src="IMG_4862 (2).JPG" alt="Here I am!" width="100" align = "right"/>
